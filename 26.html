@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>26</title>
+</head>
+<body>
+<script>
+    function nearestSq(n) {
+        const root = Math.floor(Math.sqrt(n));
+        const lowerSquare = root * root;
+        const upperSquare = (root + 1) * (root + 1);
+        return (n - lowerSquare) < (upperSquare - n) ? lowerSquare : upperSquare;
+    }
+</script>
+</body>
+</html>
