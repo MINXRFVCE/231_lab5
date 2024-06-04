@@ -700,7 +700,63 @@
 
 <h1 align = "center">Результат</h1>
 
-1.png
+<p align = "center"><img src="1.png" alt="result"></p>
+
+<p align = "center"><img src="2.png" alt="result"></p>
+
+<p align = "center"><img src="3.png" alt="result"></p>
+
+<p align = "center"><img src="4.png" alt="result"></p>
+
+<p align = "center"><img src="5.png" alt="result"></p>
+
+<p align = "center"><img src="6.png" alt="result"></p>
+
+<p align = "center"><img src="7.png" alt="result"></p>
+
+<p align = "center"><img src="8.png" alt="result"></p>
+
+<p align = "center"><img src="9.png" alt="result"></p>
+
+<p align = "center"><img src="10.png" alt="result"></p>
+
+<p align = "center"><img src="11.png" alt="result"></p>
+
+<p align = "center"><img src="12.png" alt="result"></p>
+
+<p align = "center"><img src="13.png" alt="result"></p>
+
+<p align = "center"><img src="14.png" alt="result"></p>
+
+<p align = "center"><img src="15.png" alt="result"></p>
+
+<p align = "center"><img src="16.png" alt="result"></p>
+
+<p align = "center"><img src="17.png" alt="result"></p>
+
+<p align = "center"><img src="18.png" alt="result"></p>
+
+<p align = "center"><img src="19.png" alt="result"></p>
+
+<p align = "center"><img src="20.png" alt="result"></p>
+
+<p align = "center"><img src="21.png" alt="result"></p>
+
+<p align = "center"><img src="22.png" alt="result"></p>
+
+<p align = "center"><img src="23.png" alt="result"></p>
+
+<p align = "center"><img src="24.png" alt="result"></p>
+
+<p align = "center"><img src="25.png" alt="result"></p>
+
+<p align = "center"><img src="26.png" alt="result"></p>
+
+<p align = "center"><img src="27.png" alt="result"></p>
+
+<p align = "center"><img src="28.png" alt="result"></p>
+
+<p align = "center"><img src="29.png" alt="result"></p>
 
 <p align = "center">Итого мы получаем 29 программ, каждая из которых является решением соответсвующей задачи</p>
 
